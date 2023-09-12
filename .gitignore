@@ -1566,3 +1566,4 @@ venv/Lib/site-packages/pycodestyle-2.11.0.dist-info/WHEEL
 venv/Lib/site-packages/pycodestyle.py
 venv/Scripts/autopep8.exe
 venv/Scripts/pycodestyle.exe
+.venv
